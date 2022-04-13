@@ -14,7 +14,11 @@
                 "url": false
             }
         ],
-        "technologies": ["CSS","JS","PHP"]
+        "technologies": [
+            {"name":"CSS"},
+            {"name":"JS"},
+            {"name":"PHP"}
+        ]
     },
     {
         "id":2,
@@ -31,7 +35,12 @@
                 "url": "http://carlosjc.epizy.com/"
             }
         ],
-        "technologies": ["CSS","JS","PHP","MYSQL"]
+        "technologies": [
+            {"name":"CSS"},
+            {"name":"JS"},
+            {"name":"PHP"},
+            {"name":"MYSQL"}
+        ]
     },
     {
         "id":3,
@@ -48,6 +57,9 @@
                 "url": "http://carlosjc.epizy.com/"
             }
         ],
-        "technologies": ["CSS","JS"]
+        "technologies": [
+            {"name":"PHP"},
+            {"name":"MYSQL"}
+        ]
     }
 ]
