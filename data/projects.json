@@ -36,7 +36,7 @@
             }
         ],
         "technologies": [
-            {"name":"CSS"},
+            {"name":"CSS3"},
             {"name":"JS"},
             {"name":"PHP"},
             {"name":"MYSQL"}
