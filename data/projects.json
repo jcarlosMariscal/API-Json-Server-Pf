@@ -15,9 +15,9 @@
             }
         ],
         "technologies": [
-            {"name":"CSS3"},
-            {"name":"JS"},
-            {"name":"PHP"}
+            {"name":"CSS3","icon":"icons/css3.png"},
+            {"name":"JS","icon":"icons/js.png"},
+            {"name":"PHP","icon":"icons/php.png"}
         ]
     },
     {
@@ -36,10 +36,10 @@
             }
         ],
         "technologies": [
-            {"name":"CSS3"},
-            {"name":"JS"},
-            {"name":"PHP"},
-            {"name":"MYSQL"}
+            {"name":"CSS3","icon":"icons/css3.png"},
+            {"name":"JS","icon":"icons/js.png"},
+            {"name":"PHP","icon":"icons/php.png"},
+            {"name":"MYSQL","icon":"icons/mysql.png"}
         ]
     },
     {
@@ -58,8 +58,8 @@
             }
         ],
         "technologies": [
-            {"name":"PHP"},
-            {"name":"MYSQL"}
+            {"name":"PHP","icon":"icons/php.png"},
+            {"name":"MYSQL","icon":"icons/mysql.png"}
         ]
     }
 ]
