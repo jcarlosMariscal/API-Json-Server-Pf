@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "title": "Agricultura sustentable",
+        "image": "assets/agricultura.jpg",
+        "description": "Este proyecto se ha trabajado con las siguientes tecnologías...",
+        "links":[
+            {
+                "name":"Github",
+                "url": "https://github.com/jcarlosMariscal/Agricultura"
+            },
+            {
+                "name": "Site",
+                "url": false
+            }
+        ],
+        "technologies": ["CSS","JS","PHP"]
+    },
+    {
+        "id":2,
+        "title": "Seguridad",
+        "image": "assets/seguridad.jpg",
+        "description": "Este proyecto se ha trabajado con las siguientes tecnologías...",
+        "links":[
+            {
+                "name":"Github",
+                "url": "https://github.com/jcarlosMariscal/Web-con-roles-de-usuario"
+            },
+            {
+                "name": "Site",
+                "url": "http://carlosjc.epizy.com/"
+            }
+        ],
+        "technologies": ["CSS","JS","PHP","MYSQL"]
+    }
+]
