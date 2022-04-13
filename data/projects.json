@@ -32,5 +32,22 @@
             }
         ],
         "technologies": ["CSS","JS","PHP","MYSQL"]
+    },
+    {
+        "id":3,
+        "title": "Proyecto no existente",
+        "image": "assets/prueba.jpg",
+        "description": "Aún no se agrega una descripción para este proyecto.",
+        "links":[
+            {
+                "name":"Github",
+                "url": "https://github.com/jcarlosMariscal/Web-con-roles-de-usuario"
+            },
+            {
+                "name": "Site",
+                "url": "http://carlosjc.epizy.com/"
+            }
+        ],
+        "technologies": ["CSS","JS"]
     }
 ]
