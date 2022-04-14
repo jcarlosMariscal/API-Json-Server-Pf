@@ -39,6 +39,7 @@
             {"name":"CSS3","icon":"icons/css3.png"},
             {"name":"JS","icon":"icons/js.png"},
             {"name":"PHP","icon":"icons/php.png"},
+            {"name":"ANGULAR","icon":"icons/angular.png"},
             {"name":"MYSQL","icon":"icons/mysql.png"}
         ]
     },
