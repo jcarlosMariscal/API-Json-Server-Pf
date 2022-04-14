@@ -12,3 +12,5 @@ server.use(router);
 server.listen(port);
 
 // https://www.youtube.com/watch?v=I910tH4a2Dc Minuto 15
+// https://www.freepng.es
+// https://www.pngwing.com/en/search?q=javascript&page=2

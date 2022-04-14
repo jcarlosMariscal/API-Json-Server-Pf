@@ -61,5 +61,26 @@
             {"name":"PHP","icon":"icons/php.png"},
             {"name":"MYSQL","icon":"icons/mysql.png"}
         ]
+    },
+    {
+        "id":4,
+        "title": "Api REST",
+        "image": "assets/api.jpg",
+        "description": "Api en desarrollo",
+        "links":[
+            {
+                "name":"Github",
+                "url": "https://github.com/jcarlosMariscal/Web-con-roles-de-usuario"
+            },
+            {
+                "name": "Site",
+                "url": "http://carlosjc.epizy.com/"
+            }
+        ],
+        "technologies": [
+            {"name":"PHP","icon":"icons/php.png"},
+            {"name":"MYSQL","icon":"icons/mysql.png"},
+            {"name":"ANGULAR","icon":"icons/angular.png"}
+        ]
     }
 ]
