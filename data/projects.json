@@ -1,13 +1,75 @@
 [
     {
         "id":1,
-        "title": "Agricultura sustentable",
+        "title": "Agricultura sustentable y protegida",
         "image": "assets/agricultura.jpg",
-        "description": "Este proyecto se ha trabajado con las siguientes tecnologías...",
+        "description": "Este es un sitio web donde se publican noticias sobre agricultura, tiene diferentes secciones como una galeria de imágenes, sección de noticias, un directorio de las universidades que cuentan con una carrera relacionada, una sección de documentos públicos y privados.",
+        "workArea": "Para el desarrollo del presente proyecto trabajé como desarrollador Back-end, teniendo como rol la creación de la base de datos en MySQL y manipulando la información con PHP, durante este tiempo mejoré la forma en la que trabajo en equipo y a ser autodidacta para encontrar la solución a los problemas que se me presentaban.",
+        "links":[
+            {"name":"Github", "url": "https://github.com/jcarlosMariscal/Agricultura"},
+            {"name": "Site", "url": false}
+        ],
+        "technologies": [
+            {"name":"CSS3","icon":"icons/css3.png"},
+            {"name":"JS","icon":"icons/js.png"},
+            {"name":"PHP","icon":"icons/php.png"},
+            {"name":"MYSQL","icon":"icons/mysql.png"}
+        ]
+    },
+    {
+        "id":2,
+        "title": "Inicio de sesión 2FA",
+        "image": "assets/seguridad.jpg",
+        "description": "Este es un proyecto escolar en donde además de los datos que se solicitan tradicionalmente para un inicio de sesión, se implementó dos factores de autenticación para aumentar la seguridad.",
+        "workArea": "Se trabajó con PHP para manipular y validar los datos del usuario, si estos son correctos se le solicita al usuario un código generado con un dispositivo móvil al escanear un código QR, esto con Google Authenticator.",
         "links":[
             {
                 "name":"Github",
-                "url": "https://github.com/jcarlosMariscal/Agricultura"
+                "url": "https://github.com/jcarlosMariscal/Web-con-roles-de-usuario"
+            },
+            {
+                "name": "Site",
+                "url": false
+            }
+        ],
+        "technologies": [
+            {"name":"CSS3","icon":"icons/css3.png"},
+            {"name":"PHP","icon":"icons/php.png"}
+        ]
+    },
+    {
+        "id":3,
+        "title": "Roles de Usuario en un sitio web",
+        "image": "assets/user-roles.jpg",
+        "description": "En este sitio se implementó un sistema en donde diferentes tipos de usuarios puedan iniciar sesión al mismo tiempo y permitir la recuperación de contraseña con un correo electrónico.",
+        "workArea": "Para el desarrollo de este proyecto se tuvo que crear una base de datos para almacenar la información de los usuarios, mi rol en este proyecto fue crearla, así como recuperar el acceso al sistema para al usuario creando una nueva contraseña con ayuda del correo electrónico con el que se hizo el registro.",
+        "links":[
+            {
+                "name":"Github",
+                "url": "https://github.com/jcarlosMariscal/Web-con-roles-de-usuario"
+            },
+            {
+                "name": "Site",
+                "url": "http://seguridadweb.epizy.com/"
+            }
+        ],
+        "technologies": [
+            {"name":"CSS3","icon":"icons/css3.png"},
+            {"name":"JS","icon":"icons/js.png"},
+            {"name":"PHP","icon":"icons/php.png"},
+            {"name":"MYSQL","icon":"icons/mysql.png"}
+        ]
+    },
+    {
+        "id":4,
+        "title": "Noticias sobre libros",
+        "image": "assets/notibooks.jpg",
+        "description": "Se desarrolló una mini biblioteca para recomendar libros a los usuarios, en donde se ofrece un resumen del libro y un enlace para leer el libro gratis o comprarlo, además de ofrecer noticias relevantes de autores, librerias, libros, etc. También incluye una biografía resumida de los autores para que el usuario conoza un poco más del escritor de su libro favorito.",
+        "workArea": "Para almacenar la información del administrador, usuarios que publican las noticias, autores y de los mismos libros, se creó una base de datos en MySQL, se manipuló esta información con PHP para hacer los registros y la lógica necesaria para su funcionamiento",
+        "links":[
+            {
+                "name":"Github",
+                "url": "https://github.com/jcarlosMariscal/notiBooks"
             },
             {
                 "name": "Site",
@@ -17,71 +79,8 @@
         "technologies": [
             {"name":"CSS3","icon":"icons/css3.png"},
             {"name":"JS","icon":"icons/js.png"},
-            {"name":"PHP","icon":"icons/php.png"}
-        ]
-    },
-    {
-        "id":2,
-        "title": "Seguridad",
-        "image": "assets/seguridad.jpg",
-        "description": "Este proyecto se ha trabajado con las siguientes tecnologías...",
-        "links":[
-            {
-                "name":"Github",
-                "url": "https://github.com/jcarlosMariscal/Web-con-roles-de-usuario"
-            },
-            {
-                "name": "Site",
-                "url": "http://carlosjc.epizy.com/"
-            }
-        ],
-        "technologies": [
-            {"name":"CSS3","icon":"icons/css3.png"},
-            {"name":"JS","icon":"icons/js.png"},
-            {"name":"PHP","icon":"icons/php.png"},
-            {"name":"ANGULAR","icon":"icons/angular.png"},
-            {"name":"MYSQL","icon":"icons/mysql.png"}
-        ]
-    },
-    {
-        "id":3,
-        "title": "Proyecto no existente",
-        "image": "assets/prueba.jpg",
-        "description": "Aún no se agrega una descripción para este proyecto.",
-        "links":[
-            {
-                "name":"Github",
-                "url": "https://github.com/jcarlosMariscal/Web-con-roles-de-usuario"
-            },
-            {
-                "name": "Site",
-                "url": "http://carlosjc.epizy.com/"
-            }
-        ],
-        "technologies": [
             {"name":"PHP","icon":"icons/php.png"},
             {"name":"MYSQL","icon":"icons/mysql.png"}
-        ]
-    },
-    {
-        "id":4,
-        "title": "Api REST",
-        "image": "assets/api.jpg",
-        "description": "Api en desarrollo",
-        "links":[
-            {
-                "name":"Github",
-                "url": "https://github.com/jcarlosMariscal/Web-con-roles-de-usuario"
-            },
-            {
-                "name": "Site",
-                "url": "http://carlosjc.epizy.com/"
-            }
-        ],
-        "technologies": [
-            {"name":"PHP","icon":"icons/php.png"},
-            {"name":"MYSQL","icon":"icons/mysql.png"},
-            {"name":"ANGULAR","icon":"icons/angular.png"}
         ]
     }
 ]
