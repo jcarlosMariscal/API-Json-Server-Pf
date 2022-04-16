@@ -9,11 +9,12 @@
             {"name":"Github", "url": "https://github.com/jcarlosMariscal/Agricultura"},
             {"name": "Site", "url": false}
         ],
+        "imgWeb":["assets/agricultura/inicio.png","assets/agricultura/noticias.png","assets/agricultura/noticia.png","assets/agricultura/galeria.png","assets/agricultura/documentos.png","assets/agricultura/ver-doc.png","assets/agricultura/b-noticias.png","assets/agricultura/seleccionar.png"],
         "technologies": [
-            {"name":"CSS3","icon":"icons/css3.png"},
-            {"name":"JS","icon":"icons/js.png"},
-            {"name":"PHP","icon":"icons/php.png"},
-            {"name":"MYSQL","icon":"icons/mysql.png"}
+            {"name":"CSS3","icon":"assets/icons/css3.png"},
+            {"name":"JS","icon":"assets/icons/js.png"},
+            {"name":"PHP","icon":"assets/icons/php.png"},
+            {"name":"MYSQL","icon":"assets/icons/mysql.png"}
         ]
     },
     {
@@ -29,12 +30,13 @@
             },
             {
                 "name": "Site",
-                "url": false
+                "url": "http://carlosjc.epizy.com/"
             }
         ],
+        "imgWeb":false,
         "technologies": [
-            {"name":"CSS3","icon":"icons/css3.png"},
-            {"name":"PHP","icon":"icons/php.png"}
+            {"name":"CSS3","icon":"assets/icons/css3.png"},
+            {"name":"PHP","icon":"assets/icons/php.png"}
         ]
     },
     {
@@ -53,11 +55,12 @@
                 "url": "http://seguridadweb.epizy.com/"
             }
         ],
+        "imgWeb":false,
         "technologies": [
-            {"name":"CSS3","icon":"icons/css3.png"},
-            {"name":"JS","icon":"icons/js.png"},
-            {"name":"PHP","icon":"icons/php.png"},
-            {"name":"MYSQL","icon":"icons/mysql.png"}
+            {"name":"CSS3","icon":"assets/icons/css3.png"},
+            {"name":"JS","icon":"assets/icons/js.png"},
+            {"name":"PHP","icon":"assets/icons/php.png"},
+            {"name":"MYSQL","icon":"assets/icons/mysql.png"}
         ]
     },
     {
@@ -76,11 +79,12 @@
                 "url": false
             }
         ],
+        "imgWeb":false,
         "technologies": [
-            {"name":"CSS3","icon":"icons/css3.png"},
-            {"name":"JS","icon":"icons/js.png"},
-            {"name":"PHP","icon":"icons/php.png"},
-            {"name":"MYSQL","icon":"icons/mysql.png"}
+            {"name":"CSS3","icon":"assets/icons/css3.png"},
+            {"name":"JS","icon":"assets/icons/js.png"},
+            {"name":"PHP","icon":"assets/icons/php.png"},
+            {"name":"MYSQL","icon":"assets/icons/mysql.png"}
         ]
     }
 ]
