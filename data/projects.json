@@ -9,7 +9,16 @@
             {"name":"Github", "url": "https://github.com/jcarlosMariscal/Agricultura"},
             {"name": "Site", "url": false}
         ],
-        "imgWeb":["assets/agricultura/inicio.png","assets/agricultura/noticias.png","assets/agricultura/noticia.png","assets/agricultura/galeria.png","assets/agricultura/documentos.png","assets/agricultura/ver-doc.png","assets/agricultura/b-noticias.png","assets/agricultura/seleccionar.png"],
+        "imgWeb":[
+            {"name":"Inicio de la página","img":"assets/agricultura/inicio.png"},
+            {"name":"Sección de noticias","img":"assets/agricultura/noticias.png"},
+            {"name":"Ver una noticia","img":"assets/agricultura/noticia.png"},
+            {"name":"Sección de galeria","img":"assets/agricultura/galeria.png"},
+            {"name":"Sección de documentos","img":"assets/agricultura/documentos.png"},
+            {"name":"Ver un documento","img":"assets/agricultura/ver-doc.png"},
+            {"name":"Interfaz de administrador de noticias","img":"assets/agricultura/b-noticias.png"},
+            {"name":"Interfaz para seleccionar imágenes para una noticia","img":"assets/agricultura/seleccionar.png"}
+        ],
         "technologies": [
             {"name":"CSS3","icon":"assets/icons/css3.png"},
             {"name":"JS","icon":"assets/icons/js.png"},
